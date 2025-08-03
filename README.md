@@ -30,9 +30,7 @@ This plugin bypasses that behavior by sending direct RPM commands, so you get tr
    (or build from source with .NET 8).
 2. **Exit Fan Control.**
 3. Create a folder named **`Plugins`** next to `FanControl.exe` if it does not already exist.
-4. Copy both
-
-   * `FanControl.RazerCoolingPad.dll` and
+4. Copy RazerCoolingPad.dll to the folder.
 
 5. Restart Fan Control – the new sensors will appear automatically.
 

@@ -26,8 +26,8 @@ This plugin bypasses that behavior by sending direct RPM commands, so you get tr
 
 
 
-1. Download the latest **`FanControl.RazerCoolingPad.dll`** from [Releases](#)
-   (or build from source with .NET 6).
+1. Download the latest **`FanControl.RazerCoolingPad.dll`** from [Releases](https://github.com/Benson5650/FanControl.RazerCoolingPadPlugin/releases)
+   (or build from source with .NET 8).
 2. **Exit Fan Control.**
 3. Create a folder named **`Plugins`** next to `FanControl.exe` if it does not already exist.
 4. Copy both

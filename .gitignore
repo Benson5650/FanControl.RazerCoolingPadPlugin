@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Others
+*.log
+*.tmp
+*.cache
+*.db
+
+# Plugin specific
+*.sln

@@ -1,5 +1,5 @@
-# Razer Cooling Pad Plugin for **Fan Control**
-
+# Razer Laptop Cooling Pad Plugin for **Fan Control**
+<p align=center>  <img src="/laptop-cooling-pad-og.webp" width=500/>  </p>
 An **unofficial** plugin that adds support for the USB-powered **Razer Laptop Cooling Pad** (VID 0x1532, PID 0x0F43) to [Fan Control](https://github.com/Rem0o/FanControl.Releases).
 It exposes:
 
@@ -15,7 +15,7 @@ This plugin bypasses that behavior by sending direct RPM commands, so you get tr
 
 | Model                                 | USB VID\:PID  | Notes                                                                      |
 | ------------------------------------- | ------------- | -------------------------------------------------------------------------- |
-| Razer Cooling Pad| **1532:0F43** | Tested on firmware **v1.10.00_r1**. Other revisions should work – please report! |
+| Razer Laptop Cooling Pad| **1532:0F43** | Tested on firmware **v1.10.00_r1**. Other revisions should work – please report! |
 
 
 

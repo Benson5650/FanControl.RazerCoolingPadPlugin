@@ -26,11 +26,12 @@ This plugin bypasses that behavior by sending direct RPM commands, so you get tr
 
 
 
-1. Download the latest **`FanControl.RazerCoolingPad.dll`** from [Releases](https://github.com/Benson5650/FanControl.RazerCoolingPadPlugin/releases)
-   (or build from source with .NET 8).
-2. Import Fancontrol.RazerCoolingPad.dll by `install plugin` card in setting.
+1. Download the latest **`FanControl.RazerCoolingPad.dll`** from [Releases](https://github.com/Benson5650/FanControl.RazerCoolingPadPlugin/releases).
+
+2. Import `FanControl.RazerCoolingPad.dll` using the `install plugin` card in settings.
    ![Plugin Installation](https://github.com/Rem0o/FanControl.Releases/blob/master/Images/PluginInstallation.png?raw=true)
-4. Fancontrol will automatically refresh.
+
+3. FanControl will automatically refresh.
 
 
 
@@ -51,5 +52,5 @@ This plugin bypasses that behavior by sending direct RPM commands, so you get tr
    * 0 % → **500 RPM**
    * 100 % → **3200 RPM**
      Values are rounded to the nearest **50 RPM** step (device limit).
-
+3. When the Cooling Pad is not plugged in, the sensor shows 0 RPM.
 
